@@ -1,11 +1,15 @@
 # 请勿泄露源码给他人，当你让他人为你debug或进行其他操作时，切勿让他访问你网站的全部代码，尤其是不认识的人。泄露源码对你我都没好处。
 安装宝塔面板
 使用SSH登录你的VPS，根据你VPS的系统选择下面的安装命令
+
 宝塔面板 Centos 一键安装脚本👇
+
 yum install -y wget && wget -O install.sh http://download.bt.cn/install/install_6.0.sh && sh install.sh
 宝塔面板 Ubuntu/Debian 一键安装脚本👇
+
 wget -O install.sh http://download.bt.cn/install/install-ubuntu_6.0.sh && sudo bash install.sh
 输入 y 回车安装
+
 执行完毕后，会显示类似下面的宝塔面板的登录信息，请保存好此信息
 Bt-Panel: http://xxx.xxx.xx.xx:8888/xxxxxxx
 username: xxxxxxx
