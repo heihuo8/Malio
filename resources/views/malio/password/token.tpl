@@ -13,8 +13,8 @@
   <!-- CSS Libraries -->
 
   <!-- Template CSS -->
-  <link rel="stylesheet" href="/theme/malio/assets/css/style.css">
-  <link rel="stylesheet" href="/https://cdn.jsdelivr.net/gh/heihuo8/Malio@2.0/public/theme/malio/assets/css/components.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/heihuo8/Malio@2.0/public/theme/malio/assets/css/style.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/heihuo8/Malio@2.0/public/theme/malio/assets/css/components.css">
 
   {if $malio_config['enable_crisp'] == true && $malio_config['enable_crisp_outside'] == true}
   {include file='crisp.tpl'}
@@ -85,7 +85,7 @@
 
   <!-- Page Specific JS File -->
   <script src="https://cdn.jsdelivr.net/npm/sweetalert2@7.25.6/dist/sweetalert2.all.min.js"></script>
-  <script src="/https://cdn.jsdelivr.net/gh/heihuo8/Malio@2.0/public/theme/malio/js/malio.js?{$malio_config['malio_js_version']}"></script>
+  <script src="https://cdn.jsdelivr.net/gh/heihuo8/Malio@2.0/public/theme/malio/js/malio.js?{$malio_config['malio_js_version']}"></script>
 
   <script>
     $(document).ready(function () {

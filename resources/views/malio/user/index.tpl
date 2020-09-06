@@ -507,7 +507,7 @@
 
   <!-- Counter Up  -->
   <script src="https://cdn.jsdelivr.net/npm/waypoints@4.0.0/lib/jquery.waypoints.min.js"></script>
-  <script src="/theme/malio/js/jquery.counterup.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/heihuo8/Malio@2.0/public/theme/malio/js/jquery.counterup.min.js"></script>
 
   <script src="https://cdn.jsdelivr.net/npm/bowser@1.9.4/bowser.min.js"></script>
 

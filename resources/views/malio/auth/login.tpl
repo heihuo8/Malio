@@ -11,8 +11,8 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.8.2/css/all.min.css">
 
   <!-- Template CSS -->
-  <link rel="stylesheet" href="/theme/malio/assets/css/style.css">
-  <link rel="stylesheet" href="/https://cdn.jsdelivr.net/gh/heihuo8/Malio@2.0/public/theme/malio/assets/css/components.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/heihuo8/Malio@2.0/public/theme/malio/assets/css/style.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/heihuo8/Malio@2.0/public/theme/malio/assets/css/components.css">
 
   {if $malio_config['enable_crisp'] == true && $malio_config['enable_crisp_outside'] == true}
   {include file='crisp.tpl'}
@@ -215,7 +215,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-8 col-12 order-lg-2 order-1 min-vh-100 background-walk-y position-relative overlay-gradient-bottom" data-background="/https://cdn.jsdelivr.net/gh/heihuo8/Malio@2.0/public/theme/malio/assets/img/unsplash/login-bg.jpg" style='background-image: url("/https://cdn.jsdelivr.net/gh/heihuo8/Malio@2.0/public/theme/malio/assets/img/unsplash/login-bg.jpg");'>
+        <div class="col-lg-8 col-12 order-lg-2 order-1 min-vh-100 background-walk-y position-relative overlay-gradient-bottom" data-background="https://cdn.jsdelivr.net/gh/heihuo8/Malio@2.0/public/theme/malio/assets/img/unsplash/login-bg.jpg" style='background-image: url("https://cdn.jsdelivr.net/gh/heihuo8/Malio@2.0/public/theme/malio/assets/img/unsplash/login-bg.jpg");'>
           <div class="absolute-bottom-left index-2">
             <div class="text-light p-5 pb-2">
               <div class="mb-5 pb-3">
@@ -244,7 +244,7 @@
   <script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
 
   <!-- Page Specific JS File -->
-  <script src="/https://cdn.jsdelivr.net/gh/heihuo8/Malio@2.0/public/theme/malio/js/malio.js?{$malio_config['malio_js_version']}"></script>
+  <script src="https://cdn.jsdelivr.net/gh/heihuo8/Malio@2.0/public/theme/malio/js/malio.js?{$malio_config['malio_js_version']}"></script>
 
   <script>
   var code = "UG93ZXJlZCBieSA8YSBocmVmPSIvc3RhZmYiPlNTUEFORUw8L2E+IDxkaXYgY2xhc3M9ImJ1bGxldCI+PC9kaXY+VGhlbWUgYnkgPGEgaHJlZj0iaHR0cHM6Ly90Lm1lL2VkaXRYWSIgdGFyZ2V0PSJibGFuayI+ZWRpdFhZPC9hPg==";

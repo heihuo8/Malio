@@ -11,8 +11,8 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.8.2/css/all.min.css">
 
   <!-- Template CSS -->
-  <link rel="stylesheet" href="/theme/malio/assets/css/style.css">
-  <link rel="stylesheet" href="/https://cdn.jsdelivr.net/gh/heihuo8/Malio@2.0/public/theme/malio/assets/css/components.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/heihuo8/Malio@2.0/public/theme/malio/assets/css/style.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/heihuo8/Malio@2.0/public/theme/malio/assets/css/components.css">
 
   <style>
     ol {

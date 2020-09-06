@@ -11,11 +11,11 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.8.2/css/all.min.css">
 
   <!-- Template CSS -->
-  <link rel="stylesheet" href="/theme/malio/css/style-{$malio_config['theme_color']}.css">
-  <link rel="stylesheet" href="/https://cdn.jsdelivr.net/gh/heihuo8/Malio@2.0/public/theme/malio/assets/css/components.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/heihuo8/Malio@2.0/public/theme/malio/css/style-{$malio_config['theme_color']}.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/heihuo8/Malio@2.0/public/theme/malio/assets/css/components.css">
 
   <!-- Custom CSS -->
-  <link rel="stylesheet" href="/https://cdn.jsdelivr.net/gh/heihuo8/Malio@2.0/public/theme/malio/css/malio.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/heihuo8/Malio@2.0/public/theme/malio/css/malio.css">
 </head>
 
 <body>
@@ -62,7 +62,7 @@
   <script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bowser@1.9.4/bowser.min.js"></script>
 
-  <script src="/https://cdn.jsdelivr.net/gh/heihuo8/Malio@2.0/public/theme/malio/js/malio.js?{$malio_config['malio_js_version']}"></script>
+  <script src="https://cdn.jsdelivr.net/gh/heihuo8/Malio@2.0/public/theme/malio/js/malio.js?{$malio_config['malio_js_version']}"></script>
 
   <script src="https://cdn.jsdelivr.net/npm/kjua@0.1.2/dist/kjua.min.js"></script>
 

@@ -11,8 +11,8 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.8.2/css/all.min.css">
 
   <!-- Template CSS -->
-  <link rel="stylesheet" href="/theme/malio/assets/css/style.css">
-  <link rel="stylesheet" href="/https://cdn.jsdelivr.net/gh/heihuo8/Malio@2.0/public/theme/malio/assets/css/components.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/heihuo8/Malio@2.0/public/theme/malio/assets/css/style.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/heihuo8/Malio@2.0/public/theme/malio/assets/css/components.css">
 
   {if $malio_config['enable_crisp'] == true && $malio_config['enable_crisp_outside'] == true}
   {include file='crisp.tpl'}
@@ -276,7 +276,7 @@
   <script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
 
   <!-- Page Specific JS File -->
-  <script src="/https://cdn.jsdelivr.net/gh/heihuo8/Malio@2.0/public/theme/malio/js/malio.js?{$malio_config['malio_js_version']}"></script>
+  <script src="https://cdn.jsdelivr.net/gh/heihuo8/Malio@2.0/public/theme/malio/js/malio.js?{$malio_config['malio_js_version']}"></script>
 
   <script>
     var code = "UG93ZXJlZCBieSA8YSBocmVmPSIvc3RhZmYiPlNTUEFORUw8L2E+IDxkaXYgY2xhc3M9ImJ1bGxldCI+PC9kaXY+VGhlbWUgYnkgPGEgaHJlZj0iaHR0cHM6Ly90Lm1lL2VkaXRYWSIgdGFyZ2V0PSJibGFuayI+ZWRpdFhZPC9hPg==";
