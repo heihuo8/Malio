@@ -7,10 +7,10 @@
 
 <!-- Template CSS -->
 <link rel="stylesheet" href="/theme/malio/css/style-{$malio_config['theme_color']}.css">
-<link rel="stylesheet" href="/theme/malio/assets/css/components.css">
+<link rel="stylesheet" href="/https://cdn.jsdelivr.net/gh/heihuo8/Malio@2.0/public/theme/malio/assets/css/components.css">
 
 <!-- Custom CSS -->
-<link rel="stylesheet" href="/theme/malio/css/malio.css">
+<link rel="stylesheet" href="/https://cdn.jsdelivr.net/gh/heihuo8/Malio@2.0/public/theme/malio/css/malio.css">
 
 {if $malio_config['google_analytics_code'] != ''}
 <!-- Global site tag (gtag.js) - Google Analytics -->
